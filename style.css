@@ -1,0 +1,46 @@
+.HomePage{
+    height: 100px;
+    width: 100px;
+    background-image: url(velvetbox3.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-sizing: border-box;
+    position: relative;
+
+}
+.logo{
+    height: 25px;
+    width: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.image{
+    width: 160px;
+    cursor: pointer;
+}
+.cart{
+    width: 50px;
+    cursor: pointer;
+    padding-left: 560px;
+
+}
+logo{
+    flex: 2;
+    padding-left: 60px;
+    padding-bottom: 40px;
+    padding-top: 70px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-style: bold;
+    font-style: italic;
+}
